@@ -6,9 +6,15 @@ I'm a passionate Full Stack Developer who loves to solve challenging problems an
 ## 🚀 About Me
 
 - 💻 Full Stack Developer
-- 🎓 Computer Science Graduate
+- 🎓 Computer Science Engineer
 - 🔍 Always eager to learn and explore new technologies
 - 🌱 Currently diving deep into Full Stack web dev
+
+## 🎓 Education
+
+- **Bachelor of Engineering in Computer Science and Engineering**
+  - **College:** MVJ College of Engineering Bengaluru
+  - **Year:** 2nd Year (Currently pursuing)
 
 ## 🔧 Technologies & Tools
 
@@ -27,6 +33,11 @@ I'm passionate about Data Structures and Algorithms and I solve DSA problems dai
 
 - LinkedIn: [www.linkedin.com/in/yashavanth-r-siddesh]
 - Twitter:(https://twitter.com/Rsiddesh64742)
+
+
+## 🌐 Blog
+
+Check out my blog where I share my thoughts, insights, and experiences in the world of technology: [Techy Blog](https://techy-blog.onrender.com/)
 
 ## I’m looking to collaborate 
 
