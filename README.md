@@ -37,7 +37,7 @@ I'm passionate about Data Structures and Algorithms and I solve DSA problems dai
 
 ## 🌐 Blog
 
-Check out my blog where I share my thoughts, insights, and experiences in the world of technology: [Techy Blog (https://techy-blog.onrender.com/)]
+Check out my blog where I share my thoughts, insights, and experiences in the world of technology: [Techy Blog](https://techy-blog.onrender.com/)
 
 ## I’m looking to collaborate 
 
