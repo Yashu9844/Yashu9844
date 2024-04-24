@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer who loves to solve challenging problems an
 
 Here are some of the technologies and tools I work with:
 
-- Frontend: HTML, CSS, JavaScript, React.js
+- Frontend: HTML, CSS, JavaScript, React.js,Next.js
 - Backend: Node.js, Express.js, Next.js
 - Databases: MySQL, MongoDB, 
 - Other Tools: Git, 
