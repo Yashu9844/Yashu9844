@@ -24,7 +24,7 @@ Here are some of the technologies and tools I work with:
 - Backend: Node.js, Express.js, Next.js
 - Databases: MySQL, MongoDB, 
 - Other Tools: Git, 
--languages : Java, C,C++, Python
+-languages : Java, C,C++, Python,JS,TypeScript
 ## 📚 Daily DSA
 
 I'm passionate about Data Structures and Algorithms and I solve DSA problems daily to hone my problem-solving skills and keep my mind sharp. Feel free to check out my [DSA Daily](link to your DSA repository) repository where I document my journey of solving DSA problems.
