@@ -62,14 +62,13 @@
 
 <h3>💼 Experience</h3>
 
-- **Full Stack Developer Intern** – Roborosx Omni Tech Solutions (Apr 2025 - Jul 2025)  
+- **Full Stack Developer Intern** – Roborosx Omni Tech Solutions (Apr 2025 - present)  
   Developed clinic management systems using Next.js, React, Laravel  
   🚀 Reduced load time by 45%, increased user adoption by 30%
 
 - **Tech Team – Software Development Club** (Sep 2024 - Jun 2025)  
   - Built college event websites  
-  - Mentored 300+ students across 5+ workshops  
-  - Integrated payments and guided juniors
+  - Mentored 300+ students across 3+ workshops  
 
 ---
 
@@ -83,13 +82,13 @@
 
 ---
 
-<h3>📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashu9844&show_icons=true&locale=en&layout=compact" alt="top languages" />
-</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashu9844&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashu9844" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yashu9844&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashu9844" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashu9844&layout=compact&locale=en" alt="Top Languages" width="50%" />
 </p>
