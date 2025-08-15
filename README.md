@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Next.js 14 and Full Stack Projects**
 - 🌱 I’m currently diving deep into **Next.js 14, TypeScript, and scalable backend systems**
-- 🧠 I’ve solved **300+ DSA problems** on LeetCode
+- 🧠 I’ve solved **400+ DSA problems** on LeetCode
 - 🏆 **Winner of 5+ Hackathons**, including national-level competitions
 - ✍️ I write tech articles at [Techy Blog](https://techy-blog.onrender.com/)
 - 💬 Ask me about **React, Next.js, Node.js, MongoDB, Express.js, GSAP, Laravel, PostgreSQL**
