@@ -57,10 +57,17 @@
 
 ---
 
-## 📊 GitHub Stats  
+### 📈 GitHub Stats & Streaks  
 
-![Yashavanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashu9844&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashu9844&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashu9844&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashu9844&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu9844&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</p>
+
 
 ---
 
