@@ -11,7 +11,7 @@
 🔹 **Full Stack Developer | Problem Solver**  
 
 - 🎓 Final-Year **CSE Student at MVJ College of Engineering**, passionate about building impactful tech.  
-- 💻 **Full Stack Developer Intern @ Roborosx Omni Tech Solutions** — crafting scalable web apps .  
+- 💻 **Full Stack Developer  @ Roborosx Omni Tech Solutions** — crafting scalable web apps .  
 - 🏆 **5x Hackathon Winner** — thriving in high-pressure problem-solving environments.  
 - 🧩 **400+ LeetCode problems solved** — strong grip on **DSA, algorithms & optimization**.  
 - 🚀 Experienced in **React, Next.js, Node.js, Express, MongoDB, Prisma, PostgreSQL, GSAP, Laravel**.  
