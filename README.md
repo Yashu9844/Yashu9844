@@ -1,9 +1,10 @@
 # 👋 Hey, I'm Yashavanth R Siddesh  
 
-
+[![Portfolio](https://img.shields.io/badge/Website-Visit-blue?logo=google-chrome)](https://yashavanthrsiddesh.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yashavanth-r-siddesh)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/your-username)  
-[![Blog](https://img.shields.io/badge/Blog-Techy%20Blog-lightgrey?logo=hashnode)](https://techy-blog.onrender.com)  
+
+  
 
 ---
 
